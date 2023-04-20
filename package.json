@@ -1,0 +1,24 @@
+{
+  "name": "superior-note-organization",
+  "version": "1.0.0",
+  "description": "Never forget or miss something imporant again! Log all important notes and dates in one place. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightHawk1090/superior-note-organization.git"
+  },
+  "author": "E Partain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnightHawk1090/superior-note-organization/issues"
+  },
+  "homepage": "https://github.com/KnightHawk1090/superior-note-organization#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
